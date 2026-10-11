@@ -1,0 +1,67 @@
+{
+  "android_sdk": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/sdk/android-sdk.tar.xz",
+  "cmdline_tools": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/sdk/cmdline-tools.tar.xz",
+  "build_tools": {
+    "x86_64": {
+      "_34_0_4": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/build-tools-34.0.4-x86_64.tar.xz"
+    },
+    "aarch64": {
+      "_33_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v33.0.1/build-tools-33.0.1-aarch64.tar.xz",
+      "_34_0_0": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.0/build-tools-34.0.0-aarch64.tar.xz",
+      "_34_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.1/build-tools-34.0.1-aarch64.tar.xz",
+      "_34_0_3": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.3/build-tools-34.0.3-aarch64.tar.xz",
+      "_34_0_4": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/build-tools-34.0.4-aarch64.tar.xz",
+      "_35_0_1": "https://github.com/Euphrosina/acs-sdk/releases/download/sdk3637/build-tools-35.0.1-aarch64.tar.xz",
+      "_36_1_0": "https://github.com/Euphrosina/acs-sdk/releases/download/sdk3637/build-tools-36.1.0-aarch64.tar.xz",
+      "_37_0_0": "https://github.com/Euphrosina/acs-sdk/releases/download/sdk3637/build-tools-37.0.0-aarch64.tar.xz"
+    },
+    "arm": {
+      "_33_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v33.0.1/build-tools-33.0.1-arm.tar.xz",
+      "_34_0_0": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.0/build-tools-34.0.0-arm.tar.xz",
+      "_34_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.1/build-tools-34.0.1-arm.tar.xz",
+      "_34_0_3": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.3/build-tools-34.0.3-arm.tar.xz",
+      "_34_0_4": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/build-tools-34.0.4-arm.tar.xz",
+      "_35_0_1": "https://github.com/Euphrosina/acs-sdk/releases/download/sdk3637/build-tools-35.0.1-arm.tar.xz"
+    }
+  },
+  "platform_tools": {
+    "aarch64": {
+      "_34_0_4": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/platform-tools-34.0.4-arm64.tar.xz",
+      "_34_0_3": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.3/platform-tools-34.0.3-arm64.tar.xz"
+    },
+    "arm": {
+      "_34_0_4": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/platform-tools-34.0.4-arm.tar.xz",
+      "_34_0_3": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.3/platform-tools-34.0.3-arm.tar.xz"
+    }
+  },
+  "platforms": {
+    "_35_0_1": {
+      "url": "https://dl.google.com/android/repository/platform-35_r02.zip",
+      "sha256": "0988cacad01b38a18a47bac14a0695f246bc76c1b06c0eeb8eb0dc825ab0c8e0",
+      "dir": "android-35",
+      "alias": ""
+    },
+    "_36_1_0": {
+      "url": "https://dl.google.com/android/repository/platform-36_r02.zip",
+      "sha256": "37607369a28c5b640b3a7998868d45898ebcb777565a0e85f9acf36f29631d2e",
+      "dir": "android-36",
+      "alias": ""
+    },
+    "_37_0_0": {
+      "url": "https://dl.google.com/android/repository/platform-37.0_r02.zip",
+      "sha256": "840b23e827f96e64aea4c89a1194aac3dc5f6bad37edb231c5c795d890330e8d",
+      "dir": "android-37.0",
+      "alias": "android-37"
+    }
+  },
+  "sha256": {
+    "build_tools.aarch64._35_0_1": "a2f758b37c792bb0cbfd7bbdddc6818aff908d412d86e10ad2cdd4f3fb68edff",
+    "build_tools.aarch64._36_1_0": "6461fadebf0fcf9c0ee16b0f80cc08c2d16c68323f7b9ef1330c6c1adfa94c8c",
+    "build_tools.aarch64._37_0_0": "b548c7457c2a1c3505581e55abba2bf79e634290d4ae68455928c6fb013e1b0a",
+    "build_tools.arm._35_0_1": "93927b292ad024a5320331a1f0c77d538cffb3eacfd42aeac2bdeeaa2c2569bb"
+  },
+  "jdk_11": {
+    "aarch64": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/jdk-11/jdk11-aarch64.tar.xz",
+    "arm": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/jdk-11/jdk11-aarch32.tar.xz"
+  }
+}
